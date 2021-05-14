@@ -1,5 +1,5 @@
 /**
- * @module storj-bridge/server/middleware
+ * @module storx-bridge/server/middleware
  */
 
 'use strict';
